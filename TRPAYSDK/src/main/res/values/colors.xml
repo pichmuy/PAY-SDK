@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <drawable name="none">#00000000</drawable>
+    <drawable name="item_touch">#ffc1d5ea</drawable>
+    <drawable name="translucent_background">#90000000</drawable>
+    <drawable name="background">#ffbf9c76</drawable>
+
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="content_color">#fff1ece2</color>
+    <color name="text_color">#ff7b634a</color>
+    <color name="splite_line_color">#ffd2cabb</color>
+</resources>
